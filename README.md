@@ -14,4 +14,4 @@ The benefit for the user in this will be that they don't have to go to the marke
 
 ## Design Flow
 
-![Design FLow]("C:\Users\rijak\Documents\Study Material CU\SEM 4\Shopcart-master\Design_flow.jpg")
+![Design FLow](Design_flow.jpg)
